@@ -7,3 +7,5 @@ Career Guidance: Assists with career planning, resume building, and job search s
 Emergency Contacts: Supplies emergency contact information for various situations.
 User Privacy: Ensures user privacy and confidentiality at all times.
 24/7 Availability: Available around the clock to provide assistance whenever needed.
+To view our idea you can view it using this link 
+file:///C:/Users/Sneha/Desktop/qudrant/IBM%20challenge/MyResume%20Bootstrap%20Template%20-%20Index.html
